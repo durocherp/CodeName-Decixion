@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CodeName-DecixionTests' target in the 'CodeName-DecixionTests' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+#endif
